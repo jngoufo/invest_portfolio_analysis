@@ -1,0 +1,14 @@
+2025-07-30 12:15:48,634 - INFO - --- Début du script Python (nettoyage et chargement) ---
+2025-07-30 12:15:48,636 - INFO - Configuration lue avec succès. Taux de change USD->CAD : 1.37
+2025-07-30 12:15:48,636 - INFO - Étape de nettoyage démarrée.
+2025-07-30 12:15:48,644 - INFO - Noms de colonnes standardisés.
+2025-07-30 12:15:48,646 - INFO - Lignes vides filtrées. 184 lignes valides restantes.
+2025-07-30 12:15:48,671 - INFO - Nettoyage des données terminé avec succès.
+2025-07-30 12:15:48,672 - INFO - Étape de chargement dans MySQL démarrée.
+2025-07-30 12:15:48,765 - INFO - Préparation de la mise à jour de la table : portfolio_week_7
+2025-07-30 12:15:48,859 - INFO - package: mysql.connector.plugins
+2025-07-30 12:15:48,859 - INFO - plugin_name: caching_sha2_password
+2025-07-30 12:15:48,860 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-30 12:15:50,172 - INFO - 184 lignes ont été insérées dans la table 'portfolio_week_7'.
+2025-07-30 12:15:50,173 - INFO - Chargement dans MySQL réussi !
+2025-07-30 12:15:50,174 - INFO - --- Processus complet terminé avec succès ---

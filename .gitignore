@@ -1,0 +1,16 @@
+# Fichiers de configuration locaux contenant des secrets
+my.ini
+.my.cnf
+config.ini
+
+# Données brutes et de sortie
+source/
+output/
+
+# Fichier de log
+execution_log.txt
+
+# Fichiers système et de cache Python
+__pycache__/
+.DS_Store
+*.pyc
