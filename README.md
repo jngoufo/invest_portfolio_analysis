@@ -1,4 +1,4 @@
-<h1>Analyse de Portefeuille Boursier avec Python et SQL</h1>
+<h1>Analyse de Portefeuille Boursier avec Python et SQL, asssité de l'IA</h1>
 Ce projet est un pipeline de données ETL (Extract, Transform, Load) entièrement automatisé, conçu pour extraire, nettoyer, et charger des données de portefeuille boursier dans une base de données MySQL en vue d'analyses SQL avancées.
 
 <h2>🎯 Objectif du Projet</h2>
